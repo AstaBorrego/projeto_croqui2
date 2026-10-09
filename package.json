@@ -1,0 +1,6 @@
+{
+  "name": "proj_croqui",
+  "version": "1.0.0",
+  "description": "Sistema de Croqui em Tempo Real com Flask e Firebase",
+  "main": "app.py"
+}
